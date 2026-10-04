@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=32&pause=1500&color=111111&center=true&vCenter=true&width=640&lines=Kenneth+Gaytano;Portfolio+in+motion;Web+developer+in+progress" alt="Kenneth Gaytano" />
-</p>
+# Kenneth Gaytano
+
+### Web developer in progress
 
 <p align="center">
   <a href="https://github.com/KennethGaytano">
