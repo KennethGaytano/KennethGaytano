@@ -33,11 +33,12 @@ ICT student and aspiring developer who enjoys building websites, learning new te
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="195" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=KennethGaytano&show_icons=true&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  
-  <img height="195" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=KennethGaytano&layout=compact&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+<div align="left">
+  <img height="195" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=KennethGaytano&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true&include_private=true&rank_icon=github&border_radius=20" alt="stats" />
+
+  <img height="195" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=KennethGaytano&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8&card_width=320&border_radius=20" alt="top langs" />
+</div>
+
 
 ### 📈 Contribution Graph
 
