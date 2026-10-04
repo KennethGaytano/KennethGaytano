@@ -1,34 +1,34 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=34&pause=1500&color=E7D8B5&center=true&vCenter=true&width=520&lines=Kenneth+Gaytano;Web+Developer+in+the+making" alt="Kenneth Gaytano" />
+  <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=32&pause=1500&color=111111&center=true&vCenter=true&width=640&lines=Kenneth+Gaytano;Portfolio+in+motion;Web+developer+in+progress" alt="Kenneth Gaytano" />
 </p>
 
 <p align="center">
   <a href="https://github.com/KennethGaytano">
-    <img src="https://img.shields.io/badge/GitHub-KennethGaytano-111111?style=for-the-badge&logo=github&logoColor=F5EDE0" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-KennethGaytano-111111?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
   <a href="mailto:kennethgaytano@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-8B7355?style=for-the-badge&logo=gmail&logoColor=F5EDE0" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-2A2A2A?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ICT%20Student-%23F5EDE0?style=flat-square&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Aspiring%20Web%20Developer-%23D7C9A6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Design%20Mindset-%23B9966A?style=flat-square" />
+  <img src="https://img.shields.io/badge/ICT%20Student-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Aspiring%20Web%20Developer-2A2A2A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design%20Driven-444444?style=flat-square" />
 </p>
 
 <p align="center">
-  I build with intention, refine with taste, and learn by creating things that feel thoughtful.
+  I design simple systems, build useful interfaces, and turn curiosity into thoughtful digital work.
 </p>
 
 ### About
 
-I’m an ICT student exploring the world of web development and design. I enjoy crafting clean, functional interfaces, learning new tools, and turning ideas into polished digital experiences.
+I’m an ICT student exploring the foundations of web development, design, and product thinking. I enjoy building clean and functional experiences, refining details, and learning through real projects.
 
-- 🌿 Currently learning: <strong>Web development, JavaScript, UI design, application building</strong>
-- 💬 Looking for: <strong>feedback, collaboration, and creative challenges</strong>
-- ✨ Pronouns: <strong>he/him</strong>
-- 🖤 Signature style: <strong>minimal, elegant, useful</strong>
+- 📘 Currently learning: <strong>Web development, JavaScript, UI design, application building</strong>
+- 🤝 Open to: <strong>feedback, collaboration, and new creative challenges</strong>
+- 🧭 Pronouns: <strong>he/him</strong>
+- 🖤 Style: <strong>minimal, precise, intentional</strong>
 
 ### Stack
 
@@ -47,20 +47,20 @@ I’m an ICT student exploring the world of web development and design. I enjoy 
 ### GitHub Snapshot
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=KennethGaytano&show_icons=true&theme=graywhite&title_color=3D2F26&icon_color=3D2F26&hide_border=true&bg_color=00000000&count_private=true&include_private=true&rank_icon=github&border_radius=20" alt="GitHub stats" />
-  <img height="195" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=KennethGaytano&layout=compact&theme=graywhite&title_color=3D2F26&icon_color=3D2F26&hide_border=true&bg_color=00000000&langs_count=8&card_width=320&border_radius=20" alt="Top languages" />
+  <img height="195" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=KennethGaytano&show_icons=true&theme=default&title_color=111111&icon_color=111111&hide_border=true&bg_color=00000000&count_private=true&include_private=true&rank_icon=github&border_radius=20" alt="GitHub stats" />
+  <img height="195" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=KennethGaytano&layout=compact&theme=default&title_color=111111&icon_color=111111&hide_border=true&bg_color=00000000&langs_count=8&card_width=320&border_radius=20" alt="Top languages" />
 </div>
 
 ### Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=KennethGaytano&bg_color=00000000&color=8B7355&line=8B7355&point=3D2F26&area=true&hide_border=true" alt="Activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=KennethGaytano&bg_color=00000000&color=111111&line=111111&point=444444&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
 <p align="center">
-  <i>“Minimal in design. Bold in ambition.”</i>
+  <i>“Less noise. More clarity.”</i>
 </p>
 
 ---
 
-<p align="center"><i>Built with care by <a href="https://github.com/KennethGaytano">KennethGaytano</a></i></p>
+<p align="center"><i>Built with intention by <a href="https://github.com/KennethGaytano">KennethGaytano</a></i></p>
