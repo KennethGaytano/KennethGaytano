@@ -46,10 +46,11 @@ I’m an ICT student exploring the foundations of web development, design, and p
 
 ### GitHub Snapshot
 
-<div align="center">
-  <img height="195" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=KennethGaytano&show_icons=true&theme=default&title_color=111111&icon_color=111111&hide_border=true&bg_color=00000000&count_private=true&include_private=true&rank_icon=github&border_radius=20" alt="GitHub stats" />
-  <img height="195" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=KennethGaytano&layout=compact&theme=default&title_color=111111&icon_color=111111&hide_border=true&bg_color=00000000&langs_count=8&card_width=320&border_radius=20" alt="Top languages" />
+<div align="left">
+  <img height="195" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=KennethGaytano&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true&include_private=true&rank_icon=github&border_radius=20" alt="stats" />
+  <img height="195" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=KennethGaytano&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8&card_width=320&border_radius=20" alt="top langs" />
 </div>
+
 
 ### Activity
 
