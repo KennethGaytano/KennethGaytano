@@ -50,8 +50,7 @@ ICT student and aspiring developer who enjoys building websites, learning new te
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight](https://camo.githubusercontent.com/20172a0b8c2794262cc8084eb0bd2d4a0e9426676951741cd9735204666eeea0/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e69676874)" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/KennethGaytano">KennethGaytano</a></i></p>
